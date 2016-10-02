@@ -32,12 +32,6 @@ Win: spider.py
 
 Enter web url or enter: http://www.dr-chuck.com/
 
-How many pages:3
-3 http://www.dr-chuck.com/csev-blog 57
-4 http://www.dr-chuck.com/dr-chuck/resume/speaking.htm 1
-5 http://www.dr-chuck.com/dr-chuck/resume/index.htm 13
-How many pages:
-
 You can have multiple starting points in the same database - 
 within the program these are called "webs".   The spider
 chooses randomly amongst all non-visited links across all

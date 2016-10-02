@@ -154,4 +154,3 @@ http://mbostock.github.com/d3/
 
 If you rerun the other utilities and then re-run spjson.py - you merely
 have to press refresh in the browser to get the new data from spider.js.
-
